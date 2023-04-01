@@ -15,7 +15,7 @@ import sliceToDoReducer from './sliceToDo';
 
 const persistConfig = {
   key: 'todos',
-  version: 1,
+
   storage,
 };
 
